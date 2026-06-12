@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+
+.frame29 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 30px 0px 30px 20px;
+  width: 1142px;
+  height: 2532px;
+  row-gap: 30px;
+
+  .group1 {
+    display: flex;
+    flex-shrink: 0;
+    align-items: flex-start;
+    align-self: stretch;
+    justify-content: space-between;
+    padding-right: 1px;
+
+    .frame31 {
+      display: flex;
+      align-items: center;
+      column-gap: 8px;
+      margin-top: 21px;
+      width: 246px;
+
+      .frame {
+        flex-shrink: 0;
+        border-radius: 7px;
+        background: #1948f7;
+        width: 6px;
+        height: 56px;
+      }
+
+      .text {
+        flex-shrink: 0;
+        width: 221px;
+        line-height: 50px;
+        letter-spacing: 0;
+        color: #333333;
+        font-family: "Source Sans 3", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+        font-size: 60px;
+      }
+    }
+
+    .text2 {
+      padding: 0px 1px 0px 0px;
+      width: 722px;
+      text-align: right;
+      line-height: 50px;
+      letter-spacing: 0;
+      color: var(--1948F7, #1948f7);
+      font-family: "Source Sans 3", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+      font-size: 28px;
+    }
+  }
+
+  .frame2 {
+    display: flex;
+    flex-shrink: 0;
+    align-items: flex-start;
+    align-self: stretch;
+    padding: 0px 61px 50px;
+    overflow: hidden;
+
+    .group {
+      display: flex;
+      flex-grow: 1;
+      align-items: flex-start;
+      padding: 756px 320px 194px;
+      background-image: url(../image/mowi8v4n-kpf49zl.svg);
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      .text3 {
+        line-height: 50px;
+        letter-spacing: 0;
+        color: var(--999999, #999999);
+        font-family: "Source Sans 3", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+        font-size: 60px;
+      }
+    }
+  }
+}

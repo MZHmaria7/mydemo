@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+.group4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 70px 814px 70px 136px;
+  width: 2048px;
+  height: 200px;
+
+  .frame {
+    width: 31px;
+    height: 55px;
+  }
+
+  .text {
+    line-height: 60px;
+    letter-spacing: 0;
+    color: #000000;
+    font-family: "Source Sans 3", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 60px;
+  }
+}
